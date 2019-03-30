@@ -5,6 +5,8 @@
 	<title>#first--repo</title>
 </head>
 <body>
+	<nav></nav>
+	<section></section>
 
 </body>
 </html>
